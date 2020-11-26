@@ -1,0 +1,18 @@
+#doctor-name{
+    /* margin-left:300px; */
+}
+#border{
+    border-right: 1px solid lightgray;
+}
+.modal-body>ul>li{
+    list-style: none;
+    display: inline;
+    border: 1px solid black;
+    padding: 2px 5px;
+
+}
+.modal-body>ul{
+    padding: 2px;
+    margin: 10px 5px;
+    line-height:40px;
+}
